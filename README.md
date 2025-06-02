@@ -1,5 +1,5 @@
 A basic snake game made in python 
-Created with the libraries pygame
+Created with the library pygame
 ![image](https://github.com/user-attachments/assets/1f74d935-f88c-4c4a-8e1c-14b5163e4d85)
 
 
